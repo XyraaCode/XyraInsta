@@ -8,8 +8,8 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
     $ pkg update && pkg upgrade
     $ pkg install python git
     $ pkg install play-audio
-    $ rm -rf InstaAdtya
-    $ git clone https://github.com/Xyaa-Code/InstaAdtya
+    $ rm -rf XyraInsta
+    $ git clone https://github.com/XyraaCode/XyraInsta
 
 - Oke sekarang script sudah berhasil di ```install```
 
@@ -18,7 +18,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
 
-    $ cd $HOME/InstaAdtya
+    $ cd $HOME/XyraInsta
     $ git pull
     $ python run.py
 
